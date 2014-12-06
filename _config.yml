@@ -1,0 +1,14 @@
+# Site settings
+title: Dev & Soda - Refrescando suas ideias
+email: feliperodrigues@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Posts about development specially javascript, html and css.
+baseurl: ""
+url: "http://devsoda.github.io"
+twitter_username: devsoda
+github_username:  devsoda
+
+# Build settings
+markdown: kramdown
+highlighter: Rouge
+paginate: 10
