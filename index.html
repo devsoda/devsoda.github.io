@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<ul>
+{% for post in site.posts %}
+  <li class="post">
+    <article>
+      <header>
+        <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+      </header>
+      <div class="entry-colors"><div class="color_col_1"></div><div class="color_col_2"></div><div class="color_col_3"></div></div>
+      <div class="post-content">
+        {{ post.excerpt }}
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Leia mais</a>
+      </div>
+    </article>
+  </li>
+{% endfor %}
+</ul>

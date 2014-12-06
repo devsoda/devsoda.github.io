@@ -1,0 +1,402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/feliperodrigues/Documents/Projects/devsoda.github.io"
+	],
+	"file_history":
+	[
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/WEB-INF/jsp/home/andromeda/model.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/erro/model.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/model.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/location/map_old.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/scripts/mundi/main.js",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/front-src/source/components/modernizr/feature-detects/event-deviceorientation-motion.js",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/entities/agencies/VenereAgency.java",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/models/includes/veja-tambem-hoteis.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/includes/vitrineLanding.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/WEB-INF/jsp/hotel/andromeda/head.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/WEB-INF/jsp/hotel/andromeda/head-js.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/scripts/mundi/home-responsive.js",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/models/includes/head-redirect.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/recaptcha/head-js.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/erro/head.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/models/includes/header-anuncie.jsp",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/business/exception/HotelException.java",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/home.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/models/includes/header-responsive.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/includes/header.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/home/responsive/home-model.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/front-src/source/components/jquery/src/var/hasOwn.js",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/front-src/package.json",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/flight/andromeda/accelerators.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/whitelabel/payment_confirmation.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/mails/generics/photo_approved.jsp",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/business/GlobalReviewStatBusiness.java",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/front-src/Gemfile",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/qanda/questions.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/front-src/source/scripts/common/utils/jQueryUtils.js",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/persistence/OriginRefererDAO.java",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/login/openidlogin_return.jsp",
+		"/Users/feliperodrigues/Documents/workspace/onestop/oldbuild.xml",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/flight/andromeda/count-results.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/flight/andromeda/results.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/flight/andromeda/content.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/flight/andromeda/ordination.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/flight/andromeda/filters.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/flight/andromeda/search-flight.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/scripts/mundi/responsive_flightsearch.js",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/metasearch/flight/instant/comparators/SortType.java",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/metasearch/flight/instant/FilteredFlightResultSetBuilder.java",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/metasearch/flight/instant/entities/FilteredFlightResultSet.java",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/sass/search.scss",
+		"/Users/feliperodrigues/.bash_profile",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/front-src/source/components/jquery.ui/demos/accordion/sortable.html",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/front-src/source/images/common/_webfont/star-o.svg",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/includes/metasearchbox_airlines.jsp",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/style/responsive.css",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/src/com/onestop/website/validators/RegExpStringValidator.java",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/includes/filepaths/readyEventsJs.jsp",
+		"/Users/feliperodrigues/Documents/workspace/onestop/docs/review-schema.sql",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/entities/FlightID.java",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/css/flight.css",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/business/exception/CompareToFilterException.java",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/front-src/source/components/modernizr/feature-detects/forms-inputnumber-l10n.js",
+		"/Users/feliperodrigues/Documents/workspace/onestop/src/com/onestop/util/StringEncrypt.java",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/web/showcase.jsp",
+		"/Users/feliperodrigues/Documents/workspace/mundi.sublime-project",
+		"/etc/hosts",
+		"/Users/feliperodrigues/Documents/workspace/ROOT/src/local.config.properties",
+		"/Users/feliperodrigues/Desktop/teste.js",
+		"/Users/feliperodrigues/Documents/Projects/TrackingJsAnalytics/.git/COMMIT_EDITMSG",
+		"/Users/feliperodrigues/Documents/Projects/TrackingJsAnalytics/.gitignore",
+		"/Users/feliperodrigues/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/feliperodrigues/Documents/Projects/TrackingJsAnalytics/Gruntfile.js",
+		"/Users/feliperodrigues/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/feliperodrigues/Documents/Projects/TrackingJsAnalytics/README.md",
+		"/Users/feliperodrigues/Google Drive/uploadHTML5.html",
+		"/Users/feliperodrigues/teste.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/feliperodrigues/Documents/workspace/ROOT/web/flight/andromeda",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sprite",
+			"engineOpts",
+			"gm",
+			"css",
+			"vendor.js",
+			".js",
+			"script",
+			"link",
+			"cdnurl",
+			"css",
+			"importer",
+			"icone",
+			"triangle",
+			"exibindo",
+			"buildurl",
+			"sorttype",
+			"changeSortType",
+			"changeAccelerators()",
+			"href=\"#\" data",
+			" href=\"javascript:void(0)\"",
+			"sorttype",
+			"firebargain",
+			" onclick=\"update(buildUrl(true), false, false, true);\"",
+			"href=\"#\"",
+			"sort",
+			"getBestFlightByMundiCriteria",
+			"best",
+			"z-index",
+			"COUNT-",
+			" 192.168.1.2",
+			"192.168.1.2",
+			"px",
+			"img",
+			"spaces"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"changeAccelerators(this)",
+			"href=\"javascript:void(0);\" data",
+			"",
+			"href=\"javascript:void(0)\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "devsoda.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grunt",
+				"ROOT/front-src/Gruntfile.js"
+			],
+			[
+				"model.jsp",
+				"ROOT/web/models/model.jsp"
+			],
+			[
+				"head-respo",
+				"ROOT/web/models/includes/head-responsive.jsp"
+			],
+			[
+				"header-res",
+				"ROOT/web/models/includes/header-responsive.jsp"
+			],
+			[
+				"home-resp",
+				"ROOT/web/scripts/mundi/home-responsive.js"
+			],
+			[
+				"pac",
+				"ROOT/front-src/package.json"
+			],
+			[
+				"gruntfi",
+				"ROOT/front-src/Gruntfile.js"
+			],
+			[
+				"pack",
+				"ROOT/front-src/package.json"
+			],
+			[
+				"gruntf",
+				"ROOT/front-src/Gruntfile.js"
+			],
+			[
+				"queri",
+				"ROOT/web/sass/queries.scss"
+			],
+			[
+				"search",
+				"ROOT/web/sass/search.scss"
+			],
+			[
+				"ordination",
+				"ROOT/web/flight/andromeda/ordination.jsp"
+			],
+			[
+				"sorty",
+				"onestop/src/com/onestop/metasearch/flight/instant/comparators/SortType.java"
+			],
+			[
+				"respo",
+				"ROOT/web/scripts/mundi/responsive_flightsearch.js"
+			],
+			[
+				"main.js",
+				"ROOT/web/scripts/mundi/main.js"
+			],
+			[
+				"respons",
+				"ROOT/web/scripts/mundi/responsive_flightsearch.js"
+			],
+			[
+				"filteredfli",
+				"onestop/src/com/onestop/metasearch/flight/instant/entities/FilteredFlightResultSet.java"
+			],
+			[
+				"filteredfl",
+				"onestop/src/com/onestop/metasearch/flight/instant/FilteredFlightResultSetBuilder.java"
+			],
+			[
+				"search.s",
+				"ROOT/web/sass/search.scss"
+			],
+			[
+				"",
+				"~/.bash_profile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
